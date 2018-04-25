@@ -1,0 +1,22 @@
+  .App-logo {  
+    height: 50px;
+  }
+  
+  .App-header {
+    background-color: whitesmoke;
+    height: 30px;
+    width: 1500px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .App-title {
+    font-family: 'Amatic SC', cursive;
+    color: black;
+    align-self: center;
+  }
+  
+  
+  
+  
